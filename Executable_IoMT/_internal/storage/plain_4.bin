@@ -1,0 +1,58 @@
+===========================
+RAPPORT MÉDICAL CONFIDENTIEL
+===========================
+
+Identifiant Patient : PAT-2025-034
+Nom : EL AMRANI
+Prénom : Youssef
+Âge : 57 ans
+Sexe : Masculin
+
+---------------------------------
+INFORMATIONS CLINIQUES
+---------------------------------
+Service : Cardiologie
+Établissement : CHU Ibn Sina – Rabat
+
+---------------------------------
+DONNÉES IoMT (Capteur Cardiaque)
+---------------------------------
+Capteur ID : sensor-heart-01
+Type : ECG connecté
+Date de la mesure : 2025-03-14
+Heure : 09:32
+
+Fréquence cardiaque moyenne : 98 bpm
+Pression artérielle : 145 / 92 mmHg
+Saturation en oxygène (SpO2) : 95 %
+
+---------------------------------
+ANALYSE MÉDICALE
+---------------------------------
+Les données collectées indiquent une tachycardie modérée
+associée à une hypertension artérielle de stade 1.
+
+Aucune arythmie sévère détectée sur l’ECG.
+Surveillance continue recommandée sur 48 heures.
+
+---------------------------------
+TRAITEMENT PRESCRIT
+---------------------------------
+- Bêtabloquant : Metoprolol 50 mg / jour
+- Régime pauvre en sel
+- Repos physique strict
+- Contrôle cardiologique dans 7 jours
+
+---------------------------------
+CONFIDENTIALITÉ
+---------------------------------
+Ce document est strictement confidentiel.
+L’accès est réservé au personnel médical autorisé
+selon les politiques de sécurité ABE (Attribute-Based Encryption).
+
+Toute consultation ou modification non autorisée
+est strictement interdite.
+
+---------------------------------
+Date : 2025-03-14
+---------------------------------
