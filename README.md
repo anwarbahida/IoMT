@@ -25,10 +25,3 @@ Installation rapide
 
 3. Lance l'application :
    python main.py
-
-Notes
------
-- CustomTkinter est utilisé pour une UI moderne. Si tu préfères Tkinter classique, je peux fournir
-  une variante sans customtkinter.
-- Pour remplacer la simulation par une vraie bibliothèque ABE (Charm-Crypto), indique-le et je t'aide
-  à intégrer les wrappers correspondant.
